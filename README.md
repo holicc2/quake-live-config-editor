@@ -5,8 +5,14 @@
 > A visual web-based editor for Quake Live configuration files, optimized for **2026 competitive play**.  
 > Generate professional `autoexec.cfg` files with a clean GUI — no more manual editing.
 
+## Screenshots
 
-![Quake Live Config Editor Screenshot](https://quakeliveconfigeditor.com/assets/img/screenshot.webp)
+![Quake Live Config Editor Action Binds](/assets/img/action-binds.jpg)
+
+<p align="center">
+  <img src="/assets/img/settings-general.jpg" width="49%" alt="Settings General" />
+  <img src="/assets/img/enemy-skin-colors.jpg" width="49%" alt="Enemy Skin Colors" />
+</p>
 
 ## ✨ Live Demo & Features
 
@@ -23,6 +29,17 @@
 - **Commented & Smart-Aligned Export** — Beautiful, vertically structured `autoexec.cfg` with inline comments
 - **Mobile-optimized** — Full touch support and portrait layout for both Tablet and Mobile
 - **Manual Commit Mode** — Direct text editing in the preview pane with conflict detection
+
+![Quake Live Config Editor Edit Custom Scripts](/assets/img/edit-custom-scripts.jpg)
+
+
+## Cloud Config Modal
+- **Save Up to 5 Configs** - Make custom names for your defined bind/scripts/settings.
+- **Sync to CFG Editor** - Sync changes with a single click of a button.
+- **Delete Option** - Delete a saved slot if room is needed to fit another.
+- **Full User Control** - Add an email password for your Google or Discord auth, unsync auth methods.
+
+![Quake Live Config Editor Cloud Controls Panel](/assets/img/cloud-controls-panel.jpg)
 
 ## 🛠️ Technical Stack
 
